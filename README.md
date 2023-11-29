@@ -1,2 +1,3 @@
-# meetup-nov30-2023
-November 30 R-Ladies St. Louis Meetup: Intro to ChatGPT for R coding
+## Materials for the R-Ladies St. Louis Meetup on November 8, 2023
+
+See intro slides here: https://rladiesstl.github.io/meetup-nov8-2023/#/title-slide

@@ -1,0 +1,80 @@
+---
+title: "Welcome to R-Ladies St. Louis"
+subtitle: "Introduction to ChatGPT for R coding"
+date: "November 30, 2023"
+format: rladies-revealjs
+self-contained: true
+---
+
+# Materials for tonight
+
+-   Have R and RStudio installed on your computer
+
+-   Get a free OpenAI ChatGPT account
+
+
+# What is R-Ladies? {.smaller}
+
+-   R-Ladies is a world-wide organization with the mission of promoting **gender diversity in the R community**
+
+-   Started in San Francisco in 2012 and now has **206 chapters and more than 93,000** members globally (check out rladies.org for a Shiny dashboard)
+
+![](img/rladies2022.jpg){fig-align="center"}
+
+# R-Ladies St. Louis
+
+Started in September 2017 by Jenine Harris and Chelsea West
+
+![](img/mermaid-diagram_2023.PNG){width="100" fig-align="center"}
+
+Co-organizers for **`2023-24`** include:
+
+-   Jenine Harris (Washington University)\
+-   Mary Painter (University of Colorado, Boulder)\
+-   Shelly Cooper (Washington University)\
+-   Crystal Lewis (Freelance Data Management Consultant)\
+-   Laura Rose (Hinge Health)
+
+# 2023 Fall Schedule
+
+-   **`September 11:`** Project Oriented Workflows with Shannon Pileggi
+-   **`November 8:`** Introduction to Network Analysis with Leslie Echols
+-   **`Today:`** Introduction to ChatGPT for R Coding with Olivia Weng
+
+# Announcements
+
+-   We will be recording this talk
+
+    -   Feel free to turn off your cameras if you do not want to be recorded
+
+-   Use the chat to ask questions (to everyone **or** directly to the host)
+
+<br>
+
+::: announce
+Code of Conduct  
+https://rladies.org/coc/
+:::
+
+# Want to learn more or get involved?
+
+Visit **rladies.org** to learn about the mission and global work of R-Ladies
+
+::: {layout-ncol="2"}
+::: {.column width="80%"}
+-   Connect with R-Ladies St. Louis
+    -   Email us at [rladiesstl\@gmail.com](mailto:rladiesstl@gmail.com)
+    -   Follow us on LinkedIn [\@r-ladies-st-louis](https://www.linkedin.com/company/r-ladies-st-louis/)
+    -   RSVP for future talks on [Meetup](https://www.meetup.com/R-Ladies-St-Louis/)
+    -   Check out past recorded talks on our [YouTube Channel](https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw/featured)
+:::
+
+::: {.column width="20%"}
+![](https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif){width="55%"}
+:::
+:::
+
+# About tonight's speaker
+
+- Olivia Weng is a doctoral student at Washington University in St. Louis
+- She has expertise in R and data science and is one of a team of peer instructors assisting other graduate students in public health, social work, and social policy with their quantitative work
